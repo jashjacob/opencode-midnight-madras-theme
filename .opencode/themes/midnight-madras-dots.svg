@@ -43,7 +43,7 @@
     </g>
     <g>
       <rect x="884" y="16" width="80" height="56" rx="10" fill="#ff6b6b" stroke="#ff9e9e" stroke-width="1"/>
-      <text x="924" y="104" fill="#1b1316" text-anchor="middle" font-size="9">#ff6b6b</text>
+      <text x="924" y="104" fill="#9d8f8b" text-anchor="middle" font-size="9">#ff6b6b</text>
     </g>
     <g>
       <rect x="970" y="16" width="80" height="56" rx="10" fill="#dc5058" stroke="#e8454e" stroke-width="1"/>
@@ -51,23 +51,23 @@
     </g>
     <g>
       <rect x="1056" y="16" width="80" height="56" rx="10" fill="#d1665a" stroke="#e07a3f" stroke-width="1"/>
-      <text x="1096" y="104" fill="#1b1316" text-anchor="middle" font-size="9">#d1665a</text>
+      <text x="1096" y="104" fill="#9d8f8b" text-anchor="middle" font-size="9">#d1665a</text>
     </g>
     <g>
       <rect x="1142" y="16" width="80" height="56" rx="10" fill="#e07a3f" stroke="#f2b632" stroke-width="1"/>
-      <text x="1182" y="104" fill="#1b1316" text-anchor="middle" font-size="9">#e07a3f</text>
+      <text x="1182" y="104" fill="#9d8f8b" text-anchor="middle" font-size="9">#e07a3f</text>
     </g>
     <g>
       <rect x="1228" y="16" width="80" height="56" rx="10" fill="#f2b632" stroke="#7bd697" stroke-width="1"/>
-      <text x="1268" y="104" fill="#1b1316" text-anchor="middle" font-size="9">#f2b632</text>
+      <text x="1268" y="104" fill="#9d8f8b" text-anchor="middle" font-size="9">#f2b632</text>
     </g>
     <g>
       <rect x="1314" y="16" width="80" height="56" rx="10" fill="#5fb37a" stroke="#7bd697" stroke-width="1"/>
-      <text x="1354" y="104" fill="#1b1316" text-anchor="middle" font-size="9">#5fb37a</text>
+      <text x="1354" y="104" fill="#9d8f8b" text-anchor="middle" font-size="9">#5fb37a</text>
     </g>
     <g>
       <rect x="1400" y="16" width="80" height="56" rx="10" fill="#7bd697" stroke="#5fb37a" stroke-width="1"/>
-      <text x="1440" y="104" fill="#1b1316" text-anchor="middle" font-size="9">#7bd697</text>
+      <text x="1440" y="104" fill="#9d8f8b" text-anchor="middle" font-size="9">#7bd697</text>
     </g>
   </g>
 </svg>
