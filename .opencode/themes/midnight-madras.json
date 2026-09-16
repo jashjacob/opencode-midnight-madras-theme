@@ -1,0 +1,251 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "midnightBg": "#1b1316",
+    "midnightPanel": "#241a1d",
+    "midnightElement": "#2a2023",
+    "midnightText": "#e8dcd8",
+    "midnightTextMuted": "#9d8f8b",
+    "midnightTextDim": "#8f7b80",
+    "midnightBorder": "#3a2a2e",
+    "midnightBorderActive": "#5e3d44",
+    "midnightChili": "#e8454e",
+    "midnightChiliBright": "#ff6b6b",
+    "midnightBurgundy": "#dc5058",
+    "midnightTerracotta": "#d1665a",
+    "midnightCoral": "#ff9e9e",
+    "midnightTurmeric": "#f2b632",
+    "midnightCardamom": "#5fb37a",
+    "midnightCardamomBright": "#7bd697",
+    "midnightMarigold": "#e07a3f",
+    "midnightRosewood": "#a3565e",
+    "midnightOffWhite": "#f5ecea",
+    "midnightBlack": "#000000"
+  },
+  "theme": {
+    "primary": {
+      "dark": "midnightChili",
+      "light": "midnightChili"
+    },
+    "secondary": {
+      "dark": "midnightBurgundy",
+      "light": "midnightBurgundy"
+    },
+    "accent": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "error": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "warning": {
+      "dark": "midnightTurmeric",
+      "light": "midnightTurmeric"
+    },
+    "success": {
+      "dark": "midnightCardamom",
+      "light": "midnightCardamom"
+    },
+    "info": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "text": {
+      "dark": "midnightText",
+      "light": "midnightText"
+    },
+    "textMuted": {
+      "dark": "midnightTextMuted",
+      "light": "midnightTextMuted"
+    },
+    "background": {
+      "dark": "midnightBg",
+      "light": "midnightBg"
+    },
+    "backgroundPanel": {
+      "dark": "midnightPanel",
+      "light": "midnightPanel"
+    },
+    "backgroundElement": {
+      "dark": "midnightElement",
+      "light": "midnightElement"
+    },
+    "border": {
+      "dark": "midnightBorder",
+      "light": "midnightBorder"
+    },
+    "borderActive": {
+      "dark": "midnightBorderActive",
+      "light": "midnightBorderActive"
+    },
+    "borderSubtle": {
+      "dark": "midnightBorder",
+      "light": "midnightBorder"
+    },
+    "diffAdded": {
+      "dark": "midnightCardamom",
+      "light": "midnightCardamom"
+    },
+    "diffRemoved": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "diffContext": {
+      "dark": "midnightTextDim",
+      "light": "midnightTextDim"
+    },
+    "diffHunkHeader": {
+      "dark": "midnightTextDim",
+      "light": "midnightTextDim"
+    },
+    "diffHighlightAdded": {
+      "dark": "midnightCardamomBright",
+      "light": "midnightCardamomBright"
+    },
+    "diffHighlightRemoved": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "diffAddedBg": {
+      "dark": "#22261e",
+      "light": "#22261e"
+    },
+    "diffRemovedBg": {
+      "dark": "#2a1a1d",
+      "light": "#2a1a1d"
+    },
+    "diffContextBg": {
+      "dark": "midnightPanel",
+      "light": "midnightPanel"
+    },
+    "diffLineNumber": {
+      "dark": "midnightBorderActive",
+      "light": "midnightBorderActive"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#22261e",
+      "light": "#22261e"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#2a1a1d",
+      "light": "#2a1a1d"
+    },
+    "markdownText": {
+      "dark": "midnightText",
+      "light": "midnightText"
+    },
+    "markdownHeading": {
+      "dark": "midnightChili",
+      "light": "midnightChili"
+    },
+    "markdownLink": {
+      "dark": "midnightTerracotta",
+      "light": "midnightTerracotta"
+    },
+    "markdownLinkText": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "markdownCode": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "markdownBlockQuote": {
+      "dark": "midnightTextDim",
+      "light": "midnightTextDim"
+    },
+    "markdownEmph": {
+      "dark": "midnightCoral",
+      "light": "midnightCoral"
+    },
+    "markdownStrong": {
+      "dark": "midnightTurmeric",
+      "light": "midnightTurmeric"
+    },
+    "markdownHorizontalRule": {
+      "dark": "midnightBorderActive",
+      "light": "midnightBorderActive"
+    },
+    "markdownListItem": {
+      "dark": "midnightChili",
+      "light": "midnightChili"
+    },
+    "markdownListEnumeration": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "markdownImage": {
+      "dark": "midnightTerracotta",
+      "light": "midnightTerracotta"
+    },
+    "markdownImageText": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "markdownCodeBlock": {
+      "dark": "midnightOffWhite",
+      "light": "midnightOffWhite"
+    },
+    "syntaxComment": {
+      "dark": "midnightTextDim",
+      "light": "midnightTextDim"
+    },
+    "syntaxKeyword": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "syntaxFunction": {
+      "dark": "midnightCoral",
+      "light": "midnightCoral"
+    },
+    "syntaxVariable": {
+      "dark": "midnightTerracotta",
+      "light": "midnightTerracotta"
+    },
+    "syntaxString": {
+      "dark": "midnightTurmeric",
+      "light": "midnightTurmeric"
+    },
+    "syntaxNumber": {
+      "dark": "midnightMarigold",
+      "light": "midnightMarigold"
+    },
+    "syntaxType": {
+      "dark": "midnightChili",
+      "light": "midnightChili"
+    },
+    "syntaxOperator": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "syntaxPunctuation": {
+      "dark": "midnightTextMuted",
+      "light": "midnightTextMuted"
+    },
+    "inputBackground": {
+      "dark": "midnightBg",
+      "light": "midnightBg"
+    },
+    "InputBorder": {
+      "dark": "midnightChili",
+      "light": "midnightChili"
+    },
+    "InputBorderActive": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "inputPrompt": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "inputCursor": {
+      "dark": "midnightChiliBright",
+      "light": "midnightChiliBright"
+    },
+    "inputText": {
+      "dark": "midnightOffWhite",
+      "light": "midnightOffWhite"
+    }
+  }
+}
