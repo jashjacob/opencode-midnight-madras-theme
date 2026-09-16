@@ -4,6 +4,8 @@ A warm midnight theme for OpenCode with chili-red accents, inspired by the color
 
 ![Color Palette](./.opencode/themes/midnight-madras-dots.svg)
 
+![Theme Preview](./assets/theme-reference.png)
+
 ## Features
 
 - **Chili-red accent system** - primary, accent, and syntax keywords share a cohesive warm red family
